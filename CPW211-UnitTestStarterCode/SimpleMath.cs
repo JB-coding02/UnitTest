@@ -30,6 +30,6 @@ public static class SimpleMath
 
     public static double Divide(double a, double b)
     {
-        throw new NotImplementedException();
+        return a / b;
     }
 }
