@@ -15,21 +15,21 @@ public static class SimpleMath
 {
     public static double Add(double a, double b)
     {
-        throw new NotImplementedException();
+        return a + b;
     }
 
     public static double Subtract(double a, double b)
     {
-        throw new NotImplementedException();
+        return a - b;
     }
 
     public static double Multiply(double a, double b)
     {
-        throw new NotImplementedException();
+        return a * b;
     }
 
     public static double Divide(double a, double b)
     {
-        throw new NotImplementedException();
+        return a / b;
     }
 }
